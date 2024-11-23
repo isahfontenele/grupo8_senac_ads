@@ -1,6 +1,33 @@
 # FLUXO DE PROCESSOS - SISTEMA DA UNIVERSIDADE
-## Acesso ao Sistema 
-**1. Usuário:** navegador entra no Sistema da Universidade;
-* **Página inicial:** exibe as opções de tipos de usuários.
 
-![Tela Inicial](https://github.com/user-attachments/assets/82b375b3-a80f-41ff-9251-1abf80bb9bfa)
+## Acessando o Sistema
+
+### Acesso ao Sistema 
+**1. Usuário:** navegador entra no Sistema da Universidade e escolhe o tipo de usuário;
+* **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor). 
+
+![1  Tela Inicial](https://github.com/user-attachments/assets/e874167b-95e6-4ae3-9d50-51dc6125a638)
+
+![2  Tela Inicial - Tipos de usuário](https://github.com/user-attachments/assets/d4582aee-5310-40f9-b012-002dadce3444)
+
+### Cadastro
+**1. Usuário:** navegador cria uma conta.  
+* **Formulário de Cadastro:** Preenche e-mail, nome, CPF ou CNPJ, senha, CEP, endereço, número e complemento. Envia o cadastro.
+*  **Validação de dados:** Verifica se os dados estão corretos.
+*  **Confirmação:** Usuário recebe e-mail de verificação, ativando a conta.
+  
+![3  Tela de Cadastro](https://github.com/user-attachments/assets/51b424fd-0c1f-4e4b-b460-ac4a65cf1f5c)
+
+![4  Tela de Cadastro - Conta Criada](https://github.com/user-attachments/assets/f5461896-e469-46d9-8d88-fd35762d1bc4)
+
+### Login
+**1. Usuário:** insere e-mail e senha.  
+* **Sucesso:** Usuário é redirecionado para página inicial, conforme o seu tipo de conta.
+* **Erro - esqueceu a senha:** usuário é redirecionado para a página de recuperação de senha. 
+
+![5  Tela de Login](https://github.com/user-attachments/assets/4ec54b14-020a-49fa-8b4f-9b382ae54c22)
+
+![6  Tela de  Recuperação de Senha](https://github.com/user-attachments/assets/024b4172-8785-4847-a9d7-e985a250ddfb)
+
+## Navegando pelo Sistema
+
