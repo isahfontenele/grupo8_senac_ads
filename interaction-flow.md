@@ -23,11 +23,14 @@
 ### Login
 **1. Usuário:** insere e-mail e senha.  
 * **Sucesso:** Usuário é redirecionado para página inicial, conforme o seu tipo de conta.
-* **Erro - esqueceu a senha:** usuário é redirecionado para a página de recuperação de senha. 
+* **Erro - esqueceu a senha:** usuário é redirecionado para a página de recuperação de senha. Insere e-mial cadastrado e solicita recuperação de senha.
+*  **Confirmação:** usuário recebe e-mail de recuperação de senha. 
 
 ![5  Tela de Login](https://github.com/user-attachments/assets/4ec54b14-020a-49fa-8b4f-9b382ae54c22)
 
 ![6  Tela de  Recuperação de Senha](https://github.com/user-attachments/assets/024b4172-8785-4847-a9d7-e985a250ddfb)
+
+![7  Tela de  Recuperação de Senha - mensagem de envio](https://github.com/user-attachments/assets/04195f9d-0f25-4a6f-ba13-6b23d32ee06e)
 
 ## Navegando pelo Sistema
 
