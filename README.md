@@ -11,8 +11,8 @@
 
 ## Instruções de Uso
 Para melhor navegação nesse diretório, segue orientações abaixo:
-- Os fluxos de prototipação estão na seção interaction-flow.md ();
-- Os driagramas elaborados através da modelagem UML estão na seção diagrams.
+- Os fluxos de prototipação estão na seção "interaction-flow.md" (https://github.com/isahfontenele/grupo8_senac_ads/blob/main/interaction-flow.md);
+- Os driagramas elaborados através da modelagem UML estão na seção "diagrams" [diagrams](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/diagrams)
 
 ## Integrantes 
 - Aline Santos Silva
@@ -21,7 +21,7 @@ Para melhor navegação nesse diretório, segue orientações abaixo:
 - Letícia Simões Rodrigues
 - Lucas Miranda das Chagas
 - Tairan de Abreu Freitas
-- 
+  
 ## Protótipos das Telas
 ![Recuperar Senha 1 - Aluno](https://github.com/user-attachments/assets/6dd9f56e-a217-46ba-a0ce-3c9347455682)
 
