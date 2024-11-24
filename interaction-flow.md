@@ -30,6 +30,9 @@
 
 ![6  Tela de  Recuperação de Senha](https://github.com/user-attachments/assets/024b4172-8785-4847-a9d7-e985a250ddfb)
 
+--modelo--
+![Recuperar Senha 1 - Aluno](https://github.com/user-attachments/assets/6dd9f56e-a217-46ba-a0ce-3c9347455682)
+
 ![7  Tela de  Recuperação de Senha - mensagem de envio](https://github.com/user-attachments/assets/04195f9d-0f25-4a6f-ba13-6b23d32ee06e)
 
 ## Navegando pelo Sistema
