@@ -30,7 +30,7 @@ Nome da tela:
 - Aline Santos Silva
 - Isabelle Lopes Barbosa Fontenele de Andrade
 - Karen Monique Zordan
-- Leticia Simoes Rodrigues
+- Letícia Simões Rodrigues
 - Lucas Miranda das Chagas
 - Tairan de Abreu Freitas
 
