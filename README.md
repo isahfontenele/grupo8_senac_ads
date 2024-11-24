@@ -1,7 +1,7 @@
 # Projeto Integrador Análise e Desenvolvimento de Sistemas - 3° Período - Sistema Universidade - Grupo 08
 
 ## Link do Protótipo no Figma
-<a href="https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42" target="_blank">Universidade</a>
+[Universidade](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42).
 
 ## Visão Geral do Projeto
 <p>Este projeto tem como objetivo a prototipação das interfaces de um sistema elaborado através da modelagem UML.<p>
@@ -16,9 +16,7 @@
 ## Protótipos das Telas
 Nome da tela: Recuperar Senha 1 - Aluno
 
-[![tela](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)]
-
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+![Texto Alternativo](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550)
 
 ## Modelo de Entidade e Relacionamento
 <img width="900" alt="" src="https://github.com">
