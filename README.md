@@ -13,18 +13,18 @@
 ## Instruções de Uso
 
 
-## Protótipos das telas
-Nome da tela:
+## Protótipos das Telas
+Nome da tela: Recuperar Senha 1 - Aluno
 
-![Tela](link aqui)
+![Recuperar Senha 1 - Aluno](C:\Users\karen\OneDrive\Documentos\SENAC\Terceiro_Semestre\Segunda_Etapa\PTI_2Etapa\Aluno)
 
 ## Modelo de Entidade e Relacionamento
 <img width="900" alt="" src="https://github.com">
 
-## Casos de uso (UML)
+## Casos de Uso (UML)
 <img width="900" alt="" src="https://github.com">
 
-## Diagrama de classes
+## Diagrama de Classes
 <img width="900" alt="" src="https://github.com/">
 
 ## Integrantes - Grupo 08
