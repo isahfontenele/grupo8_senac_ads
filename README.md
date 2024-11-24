@@ -1,7 +1,7 @@
 # Projeto Integrador Análise e Desenvolvimento de Sistemas - 3° Período - Sistema Universidade - Grupo 08
 
 ## Link do Protótipo no Figma
-[Universidade](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42).
+[Universidade](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)
 
 ## Visão Geral do Projeto
 <p>Este projeto tem como objetivo a prototipação das interfaces de um sistema elaborado através da modelagem UML.<p>
@@ -14,9 +14,7 @@
 
 
 ## Protótipos das Telas
-Nome da tela: Recuperar Senha 1 - Aluno
-
-![Texto Alternativo](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550)
+![Recuperar Senha 1 - Aluno](https://github.com/user-attachments/assets/6dd9f56e-a217-46ba-a0ce-3c9347455682)
 
 ## Modelo de Entidade e Relacionamento
 <img width="900" alt="" src="https://github.com">
