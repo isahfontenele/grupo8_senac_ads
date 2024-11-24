@@ -34,7 +34,7 @@
 
 ## Pessoa Jurídica
 
-![8  Pessoa Juridica - Acesso](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=132-13886&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)
+![8  Pessoa Juridica - Acesso](![image](https://github.com/user-attachments/assets/31abe2e3-0d65-4023-a526-8f3357ea2670)
 
 
 
