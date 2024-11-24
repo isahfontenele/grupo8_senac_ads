@@ -1,9 +1,9 @@
-# FLUXO DE PROCESSOS - SISTEMA DA UNIVERSIDADE
+# Fluxo de Processos - Sistema da Universidade
 
 ## Acessando o Sistema
 
 ### Acesso ao Sistema 
-**1. Usuário:** navegador entra no Sistema da Universidade e escolhe o tipo de usuário;
+**1. Usuário:** navegador entra no Sistema da Universidade e escolhe o tipo de usuário.
 * **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor). 
 
 ![1  Tela Inicial](https://github.com/user-attachments/assets/e874167b-95e6-4ae3-9d50-51dc6125a638)
@@ -11,8 +11,8 @@
 ![2  Tela Inicial - Tipos de usuário](https://github.com/user-attachments/assets/d4582aee-5310-40f9-b012-002dadce3444)
 
 ### Cadastro
-**1. Usuário:** navegador cria uma conta.  
-* **Formulário de Cadastro:** Preenche e-mail, nome, CPF ou CNPJ, senha, CEP, endereço, número e complemento. Envia o cadastro.
+**1. Usuário:** navegador cria uma conta.
+* **Formulário de Cadastro:** Preenche e-mail, nome, CPF ou CNPJ, senha, CEP, endereço, número e complemento e envia o cadastro.
 *  **Validação de dados:** Verifica se os dados estão corretos.
 *  **Confirmação:** Usuário recebe e-mail de verificação, ativando a conta.
   
@@ -23,17 +23,18 @@
 ### Login
 **1. Usuário:** insere e-mail e senha.  
 * **Sucesso:** Usuário é redirecionado para página inicial, conforme o seu tipo de conta.
-* **Erro - esqueceu a senha:** usuário é redirecionado para a página de recuperação de senha. Insere e-mial cadastrado e solicita recuperação de senha.
+* **Erro - esqueceu a senha:** usuário é redirecionado para a página de recuperação de senha. Insere e-mail cadastrado e solicita recuperação de senha.
 *  **Confirmação:** usuário recebe e-mail de recuperação de senha. 
 
 ![5  Tela de Login](https://github.com/user-attachments/assets/4ec54b14-020a-49fa-8b4f-9b382ae54c22)
 
 ![6  Tela de  Recuperação de Senha](https://github.com/user-attachments/assets/024b4172-8785-4847-a9d7-e985a250ddfb)
 
---modelo--
-![Recuperar Senha 1 - Aluno](https://github.com/user-attachments/assets/6dd9f56e-a217-46ba-a0ce-3c9347455682)
-
 ![7  Tela de  Recuperação de Senha - mensagem de envio](https://github.com/user-attachments/assets/04195f9d-0f25-4a6f-ba13-6b23d32ee06e)
 
-## Navegando pelo Sistema
+## Pessoa Jurídica
+
+![8  Pessoa Juridica - Acesso](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=132-13886&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)
+
+
 
