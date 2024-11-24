@@ -34,7 +34,13 @@
 
 ## Pessoa Jurídica
 
-![8_Tela de Login](https://github.com/user-attachments/assets/b586dc1e-fdc0-4399-b821-4cf55c8f2745)
+* **Página inicial:** fornecedor entra no Sistema da Universidade e escolhe o tipo de usuário "Fornecedor".
+* **Login:** insere e-mail e senha.
+
+![1  Tela Inicial - Tipos de usuário](https://github.com/user-attachments/assets/d4582aee-5310-40f9-b012-002dadce3444)
+
+![2  Tela de Login](https://github.com/user-attachments/assets/4ec54b14-020a-49fa-8b4f-9b382ae54c22)
+
 
 
 
