@@ -16,7 +16,7 @@
 ## Protótipos das Telas
 Nome da tela: Recuperar Senha 1 - Aluno
 
-![Recuperar Senha 1 - Aluno](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)
+![tela](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)
 
 ## Modelo de Entidade e Relacionamento
 <img width="900" alt="" src="https://github.com">
