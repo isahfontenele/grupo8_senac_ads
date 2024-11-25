@@ -100,4 +100,40 @@
   
 ![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-desempenho.png?raw=true) 
 
+## Cadastro Professor
+
+* **Página inicial:**  O usuário acessa na aba a opção "Calendário Acadêmico"
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui Provas, avaliações e eventos.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-calendario-academico.png?raw=true) 
+
+## Cadastro Professor
+
+* **Página inicial:**  O usuário acessa na aba a opção "Feedback e Avaliação"
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui Feedback e Relátorios.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-feedback-avalia%C3%A7%C3%A3o.png?raw=true) 
+
+## Cadastro Professor
+
+* **Página inicial:**  O usuário acessa na aba a opção "Financeiro"
+* **Seleção:** O sistema exibe tópicos para ser escolhido Pagamentos e Contratos.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-financeiro.png?raw=true) 
+
+## Cadastro Professor
+
+* **Página inicial:**  O usuário acessa na aba a opção "Pagamentos"
+* **Seleção:** O sistema exibe informações sobre o histórico de pagamentos.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-financeiro-pagamento.png?raw=true) 
+
+## Cadastro Professor
+
+* **Página inicial:**  O usuário acessa na aba a opção "Contratos"
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui Atualização, Status e Históricos Contratutais.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-financeiro-atualizar-contratuais.png?raw=true) 
+
+
 
