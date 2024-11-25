@@ -63,7 +63,7 @@
 * **Pagamentos:** O sistema exibe o histórico de pagamentos com informações como data, descrição, valor e status.
 * **Visualização:** O usuário clica em "Ver Detalhes" para obter mais informações sobre um pagamento específico.
 
-![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/financeiro-fornecedor.png) 
+![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/pagamentos-fornecedor.png) 
 
 
 
