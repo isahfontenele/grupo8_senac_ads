@@ -46,9 +46,9 @@
 * **Página inicial:** O sistema exibe o dashboard com as notificações, próximos eventos e atalhos para Gerenciar Cotações e Pedidos.
 * **Dashboard:** O usuário interage com os atalhos ou notificações para acessar funcionalidades específicas..
 
-![1  Tela Inicial - Tipos de usuário](https://github.com/user-attachments/assets/d4582aee-5310-40f9-b012-002dadce3444)
+![1  Tela Inicial - dashboard](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/cotacoes-fornecedor.png)
 
-![2  Tela de Login](https://github.com/user-attachments/assets/4ec54b14-020a-49fa-8b4f-9b382ae54c22)
+
 
 
 
