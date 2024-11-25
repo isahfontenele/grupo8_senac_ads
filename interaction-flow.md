@@ -93,4 +93,11 @@
   
 ![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-licenca-afastamento.png?raw=true) 
 
+## Cadastro Professor
+
+* **Página inicial:**  O usuário acessa na aba a opção "Desempenho Acadêmico"
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui notas e presença de alunos e turmar.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-desempenho.png?raw=true) 
+
 
