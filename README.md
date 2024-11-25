@@ -7,7 +7,7 @@
 
 <p>O sistema contempla cinco cenários: Cadastro de Pessoa Física, Cadastro de Pessoa Jurídica, Cadastro de Professores, Cadastro de Fornecedores e Cadastro de Alunos.</p> 
 
-[Link do Protótipo no Figma](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2198-13550&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)
+[Link do Protótipo no Figma](https://www.figma.com/proto/NxDs4tYqJ3kN2NxzTw2mBT/Projeto-Integrador---2%C2%AA-Entrega?node-id=2260-3029&node-type=canvas&t=BZDXa1iGS5RjlzJG-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A42)
 
 ## Instruções de Uso
 Para melhor navegação nesse diretório, segue orientações abaixo:
