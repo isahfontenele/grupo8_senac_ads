@@ -3,30 +3,16 @@
 ## Acessando o Sistema
 
 ### Administrativo cadastra usuário 
-**1. Coordenação:** administrador escolhe o tipo de usuário que sedeja cadastar;
+**1. Coordenação:** administrador escolhe o tipo de usuário que deseja cadastar;
 * **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor).
 
-![Escolha do tipo de Cenário](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/administrador/1.%20Tela%20de%20cadastro%402x.jpg)
+![Escolha do tipo de Cenário](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/administrador/1.%20Tela%20de%20cadastro%402x.jpg) 
 
-
-
-### Acesso ao Sistema 
-**1. Usuário:** navegador entra no Sistema da Universidade e escolhe o tipo de usuário.
-* **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor). 
-
-![1  Tela Inicial](https://github.com/user-attachments/assets/e874167b-95e6-4ae3-9d50-51dc6125a638)
-
-![2  Tela Inicial - Tipos de usuário](https://github.com/user-attachments/assets/d4582aee-5310-40f9-b012-002dadce3444)
-
-### Cadastro
-**1. Usuário:** navegador cria uma conta.
-* **Formulário de Cadastro:** Preenche e-mail, nome, CPF ou CNPJ, senha, CEP, endereço, número e complemento e envia o cadastro.
+* **Formulário de Cadastro:** Preenche nome, CPF ou CNPJ, e-mail, telefone, CEP e endereço finalizando o cadastro e gerando uma senha automática.
 *  **Validação de dados:** Verifica se os dados estão corretos.
-*  **Confirmação:** Usuário recebe e-mail de verificação, ativando a conta.
+*  **Confirmação:** Usuário que foi cadstrado recebe e-mail de verificação junto a senha de acesso.
   
-![3  Tela de Cadastro](https://github.com/user-attachments/assets/51b424fd-0c1f-4e4b-b460-ac4a65cf1f5c)
-
-![4  Tela de Cadastro - Conta Criada](https://github.com/user-attachments/assets/f5461896-e469-46d9-8d88-fd35762d1bc4)
+![Preencher formulário de cadastro/(https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/administrador/2.%20Campo%20de%20Cadastro%402x.jpg)
 
 ### Login
 **1. Usuário:** insere e-mail e senha.  
