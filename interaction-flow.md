@@ -79,3 +79,11 @@
   
 ![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-alterar-dados.png?raw=true) 
 
+## Cadastro Professor
+
+* **Página inicial:** O usuário acessa a opção na aba "Gerenciar Horários de Aula" 
+* **Seleção:** O sistema exibe informações sobre tópico escolhido, inclui gerenciar as aulas.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-gerenciar-hor%C3%A1rio-de-aula.png?raw=true) 
+
+
