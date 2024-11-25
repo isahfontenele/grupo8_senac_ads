@@ -48,13 +48,23 @@
 
 ![1  Tela Inicial - dashboard](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/dashboard-fornecedor.png)
 
-## Fornecedor Gerenciar Cotações
+## Fornecedor Gerenciar Pedidos
 
-* **Página inicial:** O usuário seleciona a opção "Gerenciar Cotações"..
-* **Cotações:** O sistema exibe as cotações separadas por status (em andamento, recebidas, aprovadas, etc.).
-* **Selecionar cotação** O usuário clica em acessar uma cotação específica para visualizar ou realizar uma ação.
+* **Página inicial:** O usuário seleciona a opção "Gerenciar Pedidos".
+* **Pedidos:** O sistema exibe os pedidos categorizados (Histórico, Status, Relatórios).
+* **Selecionar pedido:** O usuário seleciona uma das opções para visualizar ou gerar relatórios.
+* **Visualização:** O sistema apresenta as informações correspondentes ou gera um relatório em PDF
+  
+![1  pedidos ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/pedidos-fornecedor.png) 
 
-![1  cotação ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/cotacoes-fornecedor.png) 
+## Fornecedor Pagamentos
+
+* **Página inicial:** O usuário acessa a aba "Financeiro" e seleciona a opção "Pagamentos".
+* **Pagamentos:** O sistema exibe o histórico de pagamentos com informações como data, descrição, valor e status.
+* **Visualização:** O usuário clica em "Ver Detalhes" para obter mais informações sobre um pagamento específico.
+
+![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/financeiro-fornecedor.png) 
+
 
 
 
