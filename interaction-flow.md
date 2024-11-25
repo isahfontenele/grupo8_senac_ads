@@ -6,7 +6,7 @@
 **1. Coordenação:** administrador escolhe o tipo de usuário que sedeja cadastar;
 * **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor).
 
-![Escolha do tipo de Cenário](grupo8_senac_ads/assets/administrador/1.Tela de cadastro@2x.jpg)
+![Escolha do tipo de Cenário]((https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/administrador/1.%20Tela%20de%20cadastro%402x.jpg)
 
 
 
