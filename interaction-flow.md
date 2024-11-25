@@ -20,7 +20,7 @@
 * **Erro - esqueceu a senha:** usuário é redirecionado para a página de recuperação de senha. Insere e-mail cadastrado e solicita recuperação de senha.
 *  **Confirmação:** usuário recebe e-mail de recuperação de senha. 
 
-![5  Tela de Login](https://github.com/user-attachments/assets/4ec54b14-020a-49fa-8b4f-9b382ae54c22)
+![5  Tela de Login](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/login/1%20Portal%20de%20Login.png)
 
 ![6  Tela de  Recuperação de Senha](https://github.com/user-attachments/assets/024b4172-8785-4847-a9d7-e985a250ddfb)
 
