@@ -12,7 +12,7 @@
 ## Instruções de Uso
 Para melhor navegação nesse diretório, segue orientações abaixo:
 - Os fluxos de prototipação estão na seção "interaction-flow.md" [interaction-flow.md](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/interaction-flow.md);
-- Os diagramas elaborados através da modelagem UML estão na seção "diagrams" [diagrams](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/diagrams.md)
+- Os diagramas elaborados através da modelagem UML estão na seção "diagrams" [diagrams](https://github.com/isahfontenele/grupo8_senac_ads/tree/main/diagrams)
 
 ## Integrantes 
 - Aline Santos Silva
