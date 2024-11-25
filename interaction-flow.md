@@ -72,3 +72,10 @@
   
 ![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/finaceiro-fornecedor.png) 
 
+## Cadastro Professor
+
+* **Página inicial:** O usuário acessa a opção na aba "Alterar dados" 
+* **Seleção:** O sistema exibe informações sobre tópico escolhido, incluindo status e visão geral.
+  
+![1  Tela Inicial ]([https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/finaceiro-fornecedor.png](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-alterar-dados.png?raw=true)) 
+
