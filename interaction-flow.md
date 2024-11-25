@@ -12,7 +12,7 @@
 *  **Validação de dados:** Verifica se os dados estão corretos.
 *  **Confirmação:** Usuário que foi cadstrado recebe e-mail de verificação junto a senha de acesso.
   
-![Preencher formulário de cadastro/(https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/administrador/2.%20Campo%20de%20Cadastro%402x.jpg)
+![Preencher formulário de cadastro](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/administrador/2.%20Campo%20de%20Cadastro%402x.jpg)
 
 ### Login
 **1. Usuário:** insere e-mail e senha.  
