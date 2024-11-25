@@ -2,6 +2,15 @@
 
 ## Acessando o Sistema
 
+### Administrativo cadastra usuário 
+**1. Coordenação:** administrador escolhe o tipo de usuário que sedeja cadastar;
+* **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor).
+
+! [Escolha do tipo de Cenário](assets/administrador/1. Tela de cadastro@2x.jpg)
+
+
+
+
 ### Acesso ao Sistema 
 **1. Usuário:** navegador entra no Sistema da Universidade e escolhe o tipo de usuário.
 * **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor). 
