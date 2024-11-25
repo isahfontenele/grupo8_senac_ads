@@ -46,9 +46,15 @@
 * **Página inicial:** O sistema exibe o dashboard com as notificações, próximos eventos e atalhos para Gerenciar Cotações e Pedidos.
 * **Dashboard:** O usuário interage com os atalhos ou notificações para acessar funcionalidades específicas..
 
-![1  Tela Inicial - dashboard](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/cotacoes-fornecedor.png)
+![1  Tela Inicial - dashboard](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/dashboard-fornecedor.png)
 
+## Fornecedor Gerenciar Cotações
 
+* **Página inicial:** O usuário seleciona a opção "Gerenciar Cotações"..
+* **Cotações:** O sistema exibe as cotações separadas por status (em andamento, recebidas, aprovadas, etc.).
+* **Selecionar cotação** O usuário clica em acessar uma cotação específica para visualizar ou realizar uma ação.
+
+![1  cotação ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/cotacoes-fornecedor.png) 
 
 
 
