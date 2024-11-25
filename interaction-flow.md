@@ -6,7 +6,7 @@
 **1. Coordenação:** administrador escolhe o tipo de usuário que sedeja cadastar;
 * **Página inicial:** exibe as opções de tipos de usuários, com as opções de aluno, professor, pessoa física,pessoa jurídica, fornecedor).
 
-![Escolha do tipo de Cenário](assets/administrador/1.Teladecadastro@2x.jpg)
+![Escolha do tipo de Cenário](assets/administrador/1. Tela de cadastro@2x.jpg)
 
 
 
