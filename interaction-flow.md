@@ -65,6 +65,10 @@
 
 ![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/pagamentos-fornecedor.png) 
 
+## Fornecedor Financeiro
 
-
+* **Página inicial:** O usuário acessa a aba "Financeiro" e seleciona a opção uma das opções "Contratos" ou "Pagamentos".
+* **Seleção:** O sistema exibe informações sobre tópico escolhido, incluindo status e opções de download.
+  
+![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/finaceiro-fornecedor.png) 
 
