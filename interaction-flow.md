@@ -74,16 +74,23 @@
 
 ## Cadastro Professor
 
-* **Página inicial:** O usuário acessa a opção na aba "Alterar dados" 
+* **Página inicial:** O sistema exibe o dashboard 
 * **Seleção:** O sistema exibe informações sobre tópico escolhido, incluindo status e visão geral.
   
 ![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-alterar-dados.png?raw=true) 
 
 ## Cadastro Professor
 
-* **Página inicial:** O usuário acessa a opção na aba "Gerenciar Horários de Aula" 
-* **Seleção:** O sistema exibe informações sobre tópico escolhido, inclui gerenciar as aulas.
+* **Página inicial:** O usuário acessa na aba a opção "Gerenciar Horários de Aula" 
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui gerenciar as aulas.
   
 ![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-gerenciar-hor%C3%A1rio-de-aula.png?raw=true) 
+
+## Cadastro Professor
+
+* **Página inicial:**  O usuário acessa na aba a opção "Licenças-Afastamentos"
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui requerimento e histórico de linceças/afastamento.
+  
+![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-licenca-afastamento.png?raw=true) 
 
 
