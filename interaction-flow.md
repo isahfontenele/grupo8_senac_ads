@@ -17,117 +17,159 @@
 ### Login
 **1. Usuário:** insere e-mail e senha.  
 * **Sucesso:** Usuário é redirecionado para página inicial, conforme o seu tipo de conta.
+
+![Tela de Login](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/login/1%20Portal%20de%20Login.png)
+
 * **Erro - esqueceu a senha:** usuário é redirecionado para a página de recuperação de senha. Insere e-mail cadastrado e solicita recuperação de senha.
+
+![Tela de  Recuperação de Senha](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/login/2%20Recupera%C3%A7%C3%A3o%20de%20Senha%201.png)
+
 *  **Confirmação:** usuário recebe e-mail de recuperação de senha. 
 
-![5  Tela de Login](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/login/1%20Portal%20de%20Login.png)
+![Tela de  Recuperação de Senha - mensagem de envio](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/login/3%20Recupera%C3%A7%C3%A3o%20de%20Senha%202.png)
 
-![6  Tela de  Recuperação de Senha](https://github.com/user-attachments/assets/024b4172-8785-4847-a9d7-e985a250ddfb)
 
-![7  Tela de  Recuperação de Senha - mensagem de envio](https://github.com/user-attachments/assets/04195f9d-0f25-4a6f-ba13-6b23d32ee06e)
+## Fornecedor
 
-## Pessoa Jurídica
-
-* **Página inicial:** fornecedor entra no Sistema da Universidade e escolhe o tipo de usuário "Fornecedor".
-* **Login:** insere e-mail e senha.
-
-![1  Tela Inicial - Tipos de usuário](https://github.com/user-attachments/assets/d4582aee-5310-40f9-b012-002dadce3444)
-
-![2  Tela de Login](https://github.com/user-attachments/assets/4ec54b14-020a-49fa-8b4f-9b382ae54c22)
-
-## Fornecedor Dashboard
+### Fornecedor - Dashboard
 
 * **Página inicial:** O sistema exibe o dashboard com as notificações, próximos eventos e atalhos para Gerenciar Cotações e Pedidos.
 * **Dashboard:** O usuário interage com os atalhos ou notificações para acessar funcionalidades específicas..
 
-![1  Tela Inicial - dashboard](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/dashboard-fornecedor.png)
+![Tela Inicial - dashboard(https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/1.%20Dashboard%20Fornecedor.jpg)
 
-## Fornecedor Gerenciar Pedidos
+### Fornecedor - Gerenciar Pedidos
 
 * **Página inicial:** O usuário seleciona a opção "Gerenciar Pedidos".
 * **Pedidos:** O sistema exibe os pedidos categorizados (Histórico, Status, Relatórios).
 * **Selecionar pedido:** O usuário seleciona uma das opções para visualizar ou gerar relatórios.
 * **Visualização:** O sistema apresenta as informações correspondentes ou gera um relatório em PDF
   
-![1  pedidos ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/pedidos-fornecedor.png) 
+![Gerenciar pedidos](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/3.%20Pedidos.png)
 
-## Fornecedor Pagamentos
+### Fornecedor - Dashboard Financeiro
 
-* **Página inicial:** O usuário acessa a aba "Financeiro" e seleciona a opção "Pagamentos".
-* **Pagamentos:** O sistema exibe o histórico de pagamentos com informações como data, descrição, valor e status.
+* **Página inicial:** O usuário acessa a aba "Financeiro" para ter acewso aos seus contratos e pagamentos.
+
+[Dashboard Financeiro](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/4.%20%20Financeiro.png)
+
+### Fornecedor - Pagamentos
+
+* **Pagamentos:** O usuário seleciona a opção "Pagamentos" e o sistema exibe o histórico de pagamentos com informações como data, descrição, valor e status.
 * **Visualização:** O usuário clica em "Ver Detalhes" para obter mais informações sobre um pagamento específico.
 
-![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/pagamentos-fornecedor.png) 
+![Pagamentos](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/5.%20Pagamentos.png)
 
-## Fornecedor Financeiro
+### Fornecedor - Contratos
 
-* **Página inicial:** O usuário acessa a aba "Financeiro" e seleciona a opção uma das opções "Contratos" ou "Pagamentos".
-* **Seleção:** O sistema exibe informações sobre tópico escolhido, incluindo status e opções de download.
+* **Contratos:** O usuário seleciona a opção "Contratos"
+* **Visualização:** O sistema exibe informações sobre tópico escolhido, incluindo status e opções de download.
   
-![1  pagamento ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/finaceiro-fornecedor.png) 
+![Contratos](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/6.%20Contratos.png)
 
-## Dashboard Professor
+## Professor
+
+### Dashboard - Professor
 
 * **Página inicial:** O sistema exibe o dashboard 
 * **Seleção:** O sistema exibe informações gerais, incluindo status, visão geral e alterar dados.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-alterar-dados.png?raw=true) 
+![Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/Dashbord%20Professor.png)
 
-## Cadastro Professor
+### Professor - Gerir Horários de aula
 
-* **Página inicial:** O usuário acessa na aba a opção "Gerenciar Horários de Aula" 
-* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui gerenciar as aulas.
+* **Página inicial:** O usuário acessa a opção "Gerenciar Horários de Aula" 
+* **Seleção:** O sistema exibe informações sobre o tópico escolhido que inclui gerenciar as aulas.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-gerenciar-hor%C3%A1rio-de-aula.png?raw=true) 
+![Gerenciar horários de aula](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/1.%20Gerenciar%20hor%C3%A1rios%20de%20aulas.png)
 
-## Cadastro Professor
+### Professor - Licenças e Afastamentos
 
 * **Página inicial:**  O usuário acessa na aba a opção "Licenças-Afastamentos"
 * **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui requerimento e histórico de linceças/afastamento.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-licenca-afastamento.png?raw=true) 
+![Licenças e Afastamentos](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/2.%20Licen%C3%A7as%20e%20afastamentos.png)
 
-## Cadastro Professor
+### Professor - Desempenho Acadêmico
 
 * **Página inicial:**  O usuário acessa na aba a opção "Desempenho Acadêmico"
-* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui notas e presença de alunos e turmar.
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui notas e presença de alunos e médias da turma.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-desempenho.png?raw=true) 
+![Desempenho Acadêmico](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/3.%20Desempenho%20acad%C3%AAmico.png)
 
-## Cadastro Professor
+### Professor - Calendário Acadêmico
 
 * **Página inicial:**  O usuário acessa na aba a opção "Calendário Acadêmico"
-* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui Provas, avaliações e eventos.
+* **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui datas de provas, avaliações e eventos.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-calendario-academico.png?raw=true) 
+![Calendário Acadêmico](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/4.%20Calend%C3%A1rio%20Acad%C3%AAmico.png)
 
-## Cadastro Professor
+### Professor - Feedback e Avaliação
 
 * **Página inicial:**  O usuário acessa na aba a opção "Feedback e Avaliação"
 * **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui Feedback e Relátorios.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-feedback-avalia%C3%A7%C3%A3o.png?raw=true) 
+![Feedback e Avaliação](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/4.%20Feedback%20e%20avalia%C3%A7%C3%A3o.png)
 
-## Cadastro Professor
+### Professor - Financeiro - Dashboard
 
 * **Página inicial:**  O usuário acessa na aba a opção "Financeiro"
-* **Seleção:** O sistema exibe tópicos para ser escolhido Pagamentos e Contratos.
+* **Seleção:** O sistema exibe os tópicos Pagamentos e Contratos.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-financeiro.png?raw=true) 
+![Dashboard Financeiro](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/5.%20Financeiro%20-%20dashboard.png)
 
-## Cadastro Professor
+### Financeiro - Pagamentos
 
 * **Página inicial:**  O usuário acessa na aba a opção "Pagamentos"
 * **Seleção:** O sistema exibe informações sobre o histórico de pagamentos.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-financeiro-pagamento.png?raw=true) 
+![Pagamentos](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/6.%20Pagamentos.png)
 
-## Cadastro Professor
+### Financeiro - Contratos
 
 * **Página inicial:**  O usuário acessa na aba a opção "Contratos"
 * **Seleção:** O sistema exibe informações sobre tópico escolhido que inclui Atualização, Status e Históricos Contratutais.
   
-![1  Tela Inicial ](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor-financeiro-atualizar-contratuais.png?raw=true) 
+![Contratos](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/professor/7.%20Contratos.png)
 
 
+## Aluno
 
+### Aluno - Dashboard
+
+* **Página inicial:** O sistema exibe o dashboard 
+* **Seleção:** O sistema exibe informações gerais, incluindo documentos acadêmicos, materiais, notas.
+
+![Início](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/1.%20Dashboard%20Aluno.png)
+
+## Aluno - Notas
+
+* **Página inicial:**  O usuário acessa a opção "Notas"
+* **Seleção:** O sistema exibe informações sobre as notas do aluno.
+
+![Notas](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/Avalia%C3%A7%C3%B5es%20-%20notas.png)
+
+### Aluno - Documentos Acadêmicos
+
+* **Página Inicial:** O usuário acessa a opção "Documentos Acadêmicos"
+*  **Seleção:** O sistema exibe todos os documentos acadêmicos, como manuais e projetos pedagógicos.
+
+![Documentos Acadêmicos](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/Documentos%20Acad%C3%AAmicos.png)
+
+### Aluno - Matrícula 
+
+* **Página Inicial:** O usuário acessa a opção "Matrícula";
+* **Seleção:** O sistema exibe formulário para preenchimento de matrícula pelo usuário.
+
+![Matrícula - tela 1](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/Matr%C3%ADcula.png)
+
+![Matrícula - tela 2](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/Matr%C3%ADcula-1.png)
+
+![Matrícula - tela 3](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/Matr%C3%ADcula-2.png) 
+  
+### Aluno - Financeiro
+
+* **Página Inicial:** O usuário acessa a opção "Financeiro";
+* **Seleção:** O sistema exibe histórico financeiro do aluno, permitindo baixar os boletos.
+
+![Financeiro](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/Financeiro%20-%20aluno.png)
