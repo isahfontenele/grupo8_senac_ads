@@ -142,7 +142,7 @@
 
 ![Início](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/alunos/1.%20Dashboard%20Aluno.png)
 
-## Aluno - Notas
+### Aluno - Notas
 
 * **Página inicial:**  O usuário acessa a opção "Notas"
 * **Seleção:** O sistema exibe informações sobre as notas do aluno.
