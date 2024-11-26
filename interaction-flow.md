@@ -36,7 +36,7 @@
 * **Página inicial:** O sistema exibe o dashboard com as notificações, próximos eventos e atalhos para Gerenciar Cotações e Pedidos.
 * **Dashboard:** O usuário interage com os atalhos ou notificações para acessar funcionalidades específicas..
 
-![Tela Inicial - dashboard(https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/1.%20Dashboard%20Fornecedor.jpg)
+![Tela Inicial - dashboard](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/1.%20Dashboard%20Fornecedor.jpg)
 
 ### Fornecedor - Gerenciar Pedidos
 
@@ -51,7 +51,7 @@
 
 * **Página inicial:** O usuário acessa a aba "Financeiro" para ter acewso aos seus contratos e pagamentos.
 
-[Dashboard Financeiro](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/4.%20%20Financeiro.png)
+![Dashboard Financeiro](https://github.com/isahfontenele/grupo8_senac_ads/blob/main/assets/fornecedo/4.%20%20Financeiro.png)
 
 ### Fornecedor - Pagamentos
 
